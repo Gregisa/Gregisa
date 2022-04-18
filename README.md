@@ -3,7 +3,7 @@
 - 🌱 Atualmente sou aluna da geração 007 da [@Laboratória](https://www.laboratoria.la/br)
 - 💻 Estou aprendendo os pilares do front-end: JavaScript, CSS e HTML
 - 🤔 Tenho interesse em conhecer mais sobre back-end
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronomes: Ela/Dela
 - 🧠 Para além do código: sou entusiasta do cinema, tenho tato para criar playlists para pessoas/momentos e gosto de fazer esculturas em argila 
 - 📫 E-mail: isabela.bonander@gmail.com
 
