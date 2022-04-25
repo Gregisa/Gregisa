@@ -1,11 +1,11 @@
 ### Olá mundo 🌎 sou a Isabela 
 
-- 🌱 Atualmente sou aluna da geração 007 da [@Laboratória](https://www.laboratoria.la/br)
-- 💻 Estou aprendendo os pilares do front-end: JavaScript, CSS e HTML
-- 🤔 Tenho interesse em conhecer mais sobre back-end
-- 😄 Pronomes: Ela/Dela
-- 🧠 Para além do código: sou entusiasta do cinema, tenho tato para criar playlists para pessoas/momentos e gosto de fazer esculturas em argila 
-- 📫 E-mail: isabela.bonander@gmail.com
+ 🌱 Atualmente sou aluna da geração 007 da [@Laboratória](https://www.laboratoria.la/br)
+ 💻 Estou aprendendo os pilares do front-end: JavaScript, CSS e HTML
+ 🤔 Tenho interesse em conhecer mais sobre back-end
+ 😄 Pronomes: Ela/Dela
+ 🧠 Para além do código: sou entusiasta do cinema, tenho tato para criar playlists para pessoas/momentos e gosto de fazer esculturas em argila 
+ 📫 E-mail: isabela.bonander@gmail.com
 
 <div align="center">
   <a href="https://github.com/Gregisa">
