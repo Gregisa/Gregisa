@@ -2,7 +2,7 @@
 
  - 🌱 Currently I'm studying in the 007 generation of [@Laboratória](https://www.laboratoria.la/br)
  - 💻 I'm learning the pillars of the front-end: JavaScript, CSS e HTML
- - 🤔 I am interested in learning more about Phyton and UI
+ - 🤔 I am interested in learning more about Python and UI
  - 😄 Pronouns: She/Her
  - 🧠 Beyond the code: I'm a cinema enthusiastic, I have the tact to make playlists for people/moments and I enjoy to make clay sculptures 
  - 📫 E-mail: isabela.bonander@gmail.com
