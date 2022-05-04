@@ -1,10 +1,10 @@
-### Olá mundo 🌎 sou a Isabela 
+### Hello world 🌎 I'm Isabela 
 
- - 🌱 Atualmente sou aluna da geração 007 da [@Laboratória](https://www.laboratoria.la/br)
- - 💻 Estou aprendendo os pilares do front-end: JavaScript, CSS e HTML
- - 🤔 Tenho interesse em conhecer mais sobre back-end e UI
- - 😄 Pronomes: Ela/Dela
- - 🧠 Para além do código: sou entusiasta do cinema, tenho tato para criar playlists para pessoas/momentos e gosto de fazer esculturas em argila 
+ - 🌱 Currently I'm studying in the 007 generation of [@Laboratória](https://www.laboratoria.la/br)
+ - 💻 I'm learning the pillars of the front-end: JavaScript, CSS e HTML
+ - 🤔 I am interested in learning more about Phyton and UI
+ - 😄 Pronouns: She/Her
+ - 🧠 Beyond the code: I'm a cinema enthusiastic, I have the tact to make playlists for people/moments and I enjoy to make clay sculptures 
  - 📫 E-mail: isabela.bonander@gmail.com
 
 <div align="center">
@@ -36,7 +36,7 @@
   <a href = "mailto:isabela.bonander@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  <div>
-<p align= "center">Número de visitantes</p> 
+<p align= "center">Number of visitors:</p> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gregisa}/count.svg" /></p> 
 
 </div>
