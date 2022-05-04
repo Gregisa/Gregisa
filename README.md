@@ -7,11 +7,14 @@
  - 🧠 Beyond the code: I'm a cinema enthusiastic, I have the tact to make playlists for people/moments and I enjoy to make clay sculptures 
  - 📫 E-mail: isabela.bonander@gmail.com
 
+##
+
 <div align="center">
   <a href="https://github.com/Gregisa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gregisa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gregisa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregisa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-   
+##
 &nbsp;
 
 <div style="display: inline_block"><br>
