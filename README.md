@@ -1,6 +1,7 @@
 ### Hello world 🌎 I'm Isabela 
 
- - 🌱 Currently I'm studying in the 007 generation of [@Laboratória](https://www.laboratoria.la/br)
+ - 👩‍💻 I am currently working as a systems analyst at [@Raízen](https://www.raizen.com.br/)
+ - 🌱 I participed in the 007 generation of bootcamp of [@Laboratória](https://www.laboratoria.la/br)
  - 💻 I'm learning the pillars of the front-end: JavaScript, CSS e HTML
  - 🤔 I am interested in learning more about Python and UI
  - 😄 Pronouns: She/Her
